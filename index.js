@@ -1,4 +1,4 @@
-const validator = require('./lib/');
+const validator = require('./lib/index.js');
 
 module.exports = function (sails) {
   return {
@@ -9,7 +9,7 @@ module.exports = function (sails) {
       });
 
       return cb();
-    }
+    },
 
   };
 };

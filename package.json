@@ -1,6 +1,6 @@
 {
   "name": "@touch4it/sails-hook-validator",
-  "version": "2.3.0",
+  "version": "2.4.0",
   "description": "Validation hook for Sails.js requests",
   "keywords": [
     "sails-hook",
@@ -16,16 +16,16 @@
   ],
   "engines": {
     "node": ">= 10.13.0",
-    "npm": ">= 6.4.1"
+    "npm": ">= 7.0.0"
   },
   "dependencies": {
-    "validator": "^13.5.2"
+    "validator": "^13.7.0"
   },
   "devDependencies": {
-    "eslint": "^7.22.0",
-    "eslint-config-touch4it": "^7.0.0",
+    "eslint": "^8.13.0",
+    "eslint-config-touch4it": "^14.0.0",
     "lodash": "^4.17.21",
-    "mocha": "^8.3.2",
+    "mocha": "^9.2.2",
     "should": "^13.2.3"
   },
   "peerDependencies": {
@@ -41,7 +41,7 @@
   },
   "contributors": [
     "Joseba Legarreta @josebaseba",
-    "Viktor Šulák <viktor.sulak@touch4it.com>"
+    "Viktor Sulak <sulak@touch4it.com>"
   ],
   "private": false,
   "license": "MIT",

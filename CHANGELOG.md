@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## 2.4.0 (2022-04-11)
+
+- Refactored code using eslint suggestions
+- Updated dependencies
+- Updated minimum npm version to 7.0.0
+
 ## 2.3.0 (2021-03-22)
 
 - Added eslint
